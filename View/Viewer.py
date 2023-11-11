@@ -33,3 +33,4 @@ class Viewer:
         """
         self.mes = message
         return input(self.mes)
+

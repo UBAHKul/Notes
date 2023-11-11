@@ -25,3 +25,4 @@ class Note:
             title = "No title " + str(id)
         self.note = {"id": id, "date": date, "title": title, "text": text}
 
+
